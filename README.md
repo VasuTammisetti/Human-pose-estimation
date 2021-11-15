@@ -16,4 +16,4 @@ High-performing real-time pose detection and tracking will drive some of the big
 This will have a big impact on various fields, for example, in autonomous driving. Today, the majority of self-driving car accidents are caused by “robotic” driving, where the self-driving vehicle conducts an allowed but unexpected stop, and a human driver crashes into the self-driving car. With real-time human pose detection and tracking, the computers are able to understand and predict pedestrian behavior much better – allowing more natural driving.
 
 
-![pose](https://user-images.githubusercontent.com/59999074/140950141-d25e2c9b-0e4b-4310-a642-6878fff99ff8.PNG)
+![pose](https://user-images.githubusercontent.com/59999074/140950141-d25e2c9b-0e4b-4310-a642-6878fff99ff8.PNG).
